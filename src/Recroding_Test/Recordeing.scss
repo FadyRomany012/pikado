@@ -1,0 +1,111 @@
+.Rocording_audio .sc-jIRcFI.eVKuoW {
+  margin: auto !important;
+  text-align: -webkit-center;
+}
+.pragraph_record span {
+  color: #f9cb38;
+}
+
+.table_recording {
+  border: 2px solid #f5f5f5;
+  border-radius: 15px;
+  padding: 0;
+}
+.table_recording h3 {
+  background: #f5f5f5;
+  border-radius: 8px 8px 0 0;
+  padding: 10px 16px;
+}
+.table_recording th {
+  font-size: 16px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #a3a3a3;
+}
+.Syllable {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 38px;
+  /* identical to box height, or 238% */
+
+  color: #000000;
+}
+
+.Phonetics_G {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 38px;
+  /* identical to box height, or 238% */
+
+  color: #49cf57;
+}
+.Phonetics_R {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 38px;
+  /* identical to box height, or 238% */
+
+  color: #d50032;
+}
+td,
+th {
+  border: 0.1px solid;
+  border-color: #f2f2f2;
+}
+.table > :not(caption) > * > * {
+  border-color: #f2f2f2;
+}
+.modal-content .card-flyer img {
+  border: none;
+  border-radius: 0;
+}
+.Text_center_vertical {
+  place-self: center;
+}
+
+.modal-content .Buttons_Recording {
+  text-align: center;
+  border-radius: 10px !important;
+}
+.modal-content .Buttons_Recording button {
+  width: 302px !important;
+  border-radius: 10px !important;
+}
+.recorder_contianer {
+  width: 521px;
+  padding: 24px;
+
+  height: 104px;
+  border-radius: 24px;
+  margin: auto;
+}
+.AudioPlayer_rec {
+  width: 520px;
+  margin-left: -23px;
+}
+.correct_answer {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #40b2f2;
+}
+.thanks_title {
+  border-bottom: 1px solid #ececec;
+  padding-bottom: 22px;
+}
+.pronunciation_analysis {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 38px;
+  /* identical to box height, or 238% */
+
+  color: #000000;
+}
+
+.thanks_answer {
+  border-bottom: 1px solid #ececec;
+  padding: 10px 0 10px 0;
+}

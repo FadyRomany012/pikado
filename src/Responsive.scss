@@ -1,0 +1,50 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .login_fields {
+    height: auto;
+  }
+  .bg_button {
+    width: 17rem;
+  }
+  .btn:hover {
+    color: #fff;
+    background-color: none !important;
+    border-color: none !important;
+  }
+  .css-13xfq8m-MuiTabPanel-root {
+    padding: 0px !important;
+  }
+  .Termsancond {
+    padding: 0 14px;
+  }
+  .recorder_contianer {
+    width: 321px;
+    height: 76px;
+    border-radius: 11px;
+
+    margin: auto;
+    padding: 14px 0 0px 0;
+  }
+  .AudioPlayer_rec {
+    width: 321px;
+    padding: 3px 3px;
+
+    margin: auto;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
